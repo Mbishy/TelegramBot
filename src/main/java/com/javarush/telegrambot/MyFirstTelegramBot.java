@@ -41,6 +41,8 @@ public class MyFirstTelegramBot extends MultiSessionTelegramBot {
             sendPhotoMessageAsync("step_6_pic");
         }
 
+        //comment
+
     }
 
     public static void main(String[] args) throws TelegramApiException {
